@@ -1,0 +1,25 @@
+# Byte-compiled / ottimizzati
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambienti virtuali
+.venv/
+venv/
+env/
+ENV/
+
+# File di configurazione e variabili d'ambiente (chiavi API)
+.env
+.env.local
+
+# Cartelle di distribuzione e build
+build/
+dist/
+*.egg-info/
+
+# File di sistema e degli editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
